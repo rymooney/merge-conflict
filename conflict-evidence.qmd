@@ -8,10 +8,14 @@ author: 'Ryan and Veronica'
 
     ![](images/conflict.png)
 
+The merge conflict occur because we both changed the sentence differently, so the text didn't match.
+
 2.  a screenshot showing the two competing versions in the conflict editor,
 
     ![](images/error.png)
 
+Git was unable to decide which sentence to keep automatically because we had multiple branches trying to merge to main with different information.
+
 3.  a screenshot showing the final resolved version on main.
 
-    ![](images/resolved.png)
+    ![](images/resolved.png) We chose our final sentence because we wanted to include information added my both partners.
